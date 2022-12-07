@@ -1,2 +1,2 @@
 # conflicttest
-* hello
+* hello2
